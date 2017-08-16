@@ -1,0 +1,8 @@
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\bin\Debug\PiFinder.exe.config
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\bin\Debug\PiFinder.XML
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\bin\Debug\PiFinder.exe
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\bin\Debug\PiFinder.pdb
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\bin\Debug\FSharp.Core.dll
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\bin\Debug\FSharp.Core.xml
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\obj\Debug\PiFinder.exe
+E:\Fox\School dump\HomeProjects\FSharp\PiFinder\PiFinder\obj\Debug\PiFinder.pdb

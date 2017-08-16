@@ -1,0 +1,8 @@
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\bin\Debug\_3VL.exe.config
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\bin\Debug\_3VL.XML
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\bin\Debug\_3VL.exe
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\bin\Debug\_3VL.pdb
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\bin\Debug\FSharp.Core.dll
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\bin\Debug\FSharp.Core.xml
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\obj\Debug\_3VL.exe
+E:\Fox\School dump\HomeProjects\FSharp\3VL\3VL\obj\Debug\_3VL.pdb
